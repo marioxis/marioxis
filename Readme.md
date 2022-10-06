@@ -15,6 +15,7 @@ Languages that I learned:
 
 ## Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marioxis)](https://github.com/marioxis)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marioxis&PAT_1)](https://github.com/marioxis)
 
+![](https://komarev.com/ghpvc/?username=marioxis&color=ff69b4)
 
