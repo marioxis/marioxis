@@ -11,7 +11,7 @@
 
 ## About Me
 
-I am a Venezuelan scientist, researcher, and biologist with a strong foundation in data analysis and scientific research. Currently, I am thriving in a professional transition into the tech industry, where I have expanded my expertise as a Full-Stack Developer and Android/Kotlin Application Developer. 🚀💻
+I am a Venezuelan scientist, researcher, and biologist with a strong foundation in data analysis and scientific research. Currently, I have expanded my expertise as a Full-Stack Developer and Android/Kotlin Application Developer. 🚀💻
 
 With a passion for problem-solving and innovation, I specialize in building robust mobile applications, designing scalable back-end systems, and creating seamless user experiences. My diverse background in science and technology allows me to approach challenges with a unique perspective and deliver impactful solutions.
 
